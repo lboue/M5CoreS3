@@ -23,6 +23,18 @@ English | [中文](README_cn.md)
 - AXP2101 power management, low power design
 - Supported programming platforms: Arduino, UIFlow
 
+
+## Arduino IDE Compilation
+
+Install following librairies in Arduino IDE:
+- M5CoreS3 you can download here: [M5CoreS3-main.zip](https://codeload.github.com/m5stack/M5CoreS3/zip/refs/heads/main)
+
+- Open an example via File menu -> Example -> M5CoreS3 -> Basic -> HelloWorld
+![image](https://github.com/lboue/M5CoreS3/assets/938089/eac799ec-0587-4fcb-9131-d841780b9679)
+- Select board M5Stack-CoreS3
+- Compile 
+
+
 ## PlatformIO Compilation
 
 [Compilation File](https://github.com/m5stack/M5CoreS3/blob/main/platformio.ini)
